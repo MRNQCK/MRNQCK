@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I am MRNQCK</h1>
-<h3 align="center">I like beeing stupid </h3>
+<h3 align="center"> </h3>
 
 - I’m currently learning **Java**
 
